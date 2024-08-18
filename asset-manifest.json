@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/samuelsx/static/css/main.9ba37e27.css",
+    "main.js": "/samuelsx/static/js/main.1b423cab.js",
+    "static/media/savings.svg": "/samuelsx/static/media/savings.25a5174d3c0ce57522d68f3ba58b7407.svg",
+    "index.html": "/samuelsx/index.html",
+    "main.9ba37e27.css.map": "/samuelsx/static/css/main.9ba37e27.css.map",
+    "main.1b423cab.js.map": "/samuelsx/static/js/main.1b423cab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ba37e27.css",
+    "static/js/main.1b423cab.js"
+  ]
+}
